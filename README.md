@@ -35,7 +35,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=liofval&theme=tokyonight" />
 </div>
 
-
 <!-- ## 📈 Activity Graph
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=liofval&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
