@@ -7,7 +7,7 @@
 - 🔭 B3
 - 📫 連絡先: 
 
-## 🛠️ Skills
+<!-- ## 🛠️ Skills
 
 ### Languages
 ![Skills](https://skillicons.dev/icons?i=c,js,ts,python,java,go)
@@ -22,7 +22,7 @@
 ![Database](https://skillicons.dev/icons?i=mysql,postgres,docker,kubernetes,git,github)
 
 ### Cloud & DevOps
-![Cloud](https://skillicons.dev/icons?i=aws,azure,vercel,linux)
+![Cloud](https://skillicons.dev/icons?i=aws,azure,vercel,linux) -->
 
 ## 📊 GitHub Stats
 
@@ -36,9 +36,9 @@
 </div>
 
 
-## 📈 Activity Graph
+<!-- ## 📈 Activity Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=liofval&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=liofval&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 ## 🔗 Connect with Me
 
