@@ -6,7 +6,7 @@
 
 - Work
     - 日本大学 数学科　B3
-    -　42Tokyo
+    - 42Tokyo
 - Research
     - 解析　特に変分問題
     - アルゴリズム
