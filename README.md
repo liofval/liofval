@@ -4,10 +4,18 @@
 
 ## 🚀 About Me
 
-- 🔭 B3
-- 📫 連絡先: 
+- Work
+    - 日本大学 数学科　B3
+    -　42Tokyo
+- Research
+    - 解析　特に変分問題
+    - アルゴリズム
+- Internship
+    - 2025-09〜現在 [株式会社 NITI Technology](https://nititech.jp/)
+    - 2025-10〜2025-11 [株式会社carnot](https://carnot.ai/)
 
-<!-- ## 🛠️ Skills
+
+<!-- ## 🛠️ Tech Stack
 
 ### Languages
 ![Skills](https://skillicons.dev/icons?i=c,js,ts,python,java,go)
@@ -24,16 +32,10 @@
 ### Cloud & DevOps
 ![Cloud](https://skillicons.dev/icons?i=aws,azure,vercel,linux) -->
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=liofval&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liofval&layout=compact&theme=tokyonight&langs_count=8" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=liofval&theme=tokyonight" />
-</div>
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://my-github-stats-rust.vercel.app/api/top-langs/?username=liofval&layout=compact&show_icons=true&theme=default&count_private=true" />
+  <img alt="github stats" height="150px" src="https://my-github-stats-rust.vercel.app/api?username=liofval&theme=default&show_icons=ture&count_private=true" />
+</p>
 
 <!-- ## 📈 Activity Graph
 
