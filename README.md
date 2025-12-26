@@ -1,14 +1,10 @@
-# 👋 Hi, I'm mei
-
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20Profile&fontSize=50&animation=fadeIn)
-
 ## 🚀 About Me
 
 - Work
     - 日本大学 数学科　B3
     - 42Tokyo
 - Research
-    - 解析　特に変分問題
+    - 解析,変分
     - アルゴリズム
 - Internship
     - 2025-09〜現在 [株式会社 NITI Technology](https://nititech.jp/)
