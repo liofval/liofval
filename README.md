@@ -6,9 +6,11 @@
 - Research
     - 解析,変分
     - アルゴリズム
-- Internship
+- Internship/ Education
     - 2025-09〜現在 [株式会社 NITI Technology](https://nititech.jp/)
     - 2025-10〜2025-11 [株式会社carnot](https://carnot.ai/)
+    - 2025-05〜2025-09 [東京大学 GCI 2025 Summer](https://gci.t.u-tokyo.ac.jp/) 修了
+    - 2025-08 [株式会社いい生活](https://www.e-seikatsu.info/) Summer Internship
 
 
 <!-- ## 🛠️ Tech Stack
